@@ -22,4 +22,6 @@ To insert images into these folders<a href ="https://github.com/parinith/Identif
 
 
 Detailed Approach for <h3>FastAI</f3> is written in detail in the <a herf='https://github.com/parinith/Identify_the_dance-FastAI-/commit/6ee5e26cfdef4a14b48f42a83b69881141d512a8' >notebook3</a> also contains about diffrent augmentation techniques that are provied in default.
-<p><img src="https://github.com/parinith/Identify_the_dance-FastAI-/blob/master/dance.PNG" width="600" height="200"></p>
+
+I was able to achive a score of about accuracy 89.9% for the test case.
+<p><img src="https://github.com/parinith/Identify_the_dance-FastAI-/blob/master/dance.PNG" width="700" height="300"></p>
